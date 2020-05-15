@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>hw_4_22_PeopleAjaxProject</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\hw 4-22 PeopleAjaxProject.data\hw 4-22 PeopleAjaxProject.data.csproj" />
+  </ItemGroup>
+
+</Project>
